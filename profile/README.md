@@ -1,12 +1,15 @@
-## Hi there 👋
+<!-- markdownlint-disable MD033 MD041 -->
+<p align="center">
+  <img src="https://github.com/LygomCo/.github/blob/main/assets/logo-bg-rounded.png?raw=true" height="128">
+  <h1 align="center">Lygom</h1>
+</p>
+<!-- markdownlint-enable MD033 -->
 
-<!--
+Welcome to **Lygom**'s public GitHub profile.
 
-**Here are some ideas to get you started:**
+Here we share code, open source tools and manage our assets used for our websites.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## People involved
+
+- Co-Founder & CEO: [Dimitris Chrysocheris](https://github.com/JimChr-R4GN4R)
+- Co-Founder & CTO: [Stratis Dermanoutsos](https://github.com/Stratis-Dermanoutsos)
