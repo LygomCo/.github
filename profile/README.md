@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 MD041 -->
-<p align="center">
+<div align="center">
   <img src="https://github.com/LygomCo/.github/blob/main/assets/logo-bg-rounded.png?raw=true" height="128">
-</p>
+</div>
 <!-- markdownlint-enable MD033 -->
 
 # Lygom
