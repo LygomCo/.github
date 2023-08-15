@@ -10,7 +10,9 @@ Welcome to **Lygom**'s public GitHub profile.
 
 Here we share code, open source tools and manage our assets used for our websites.
 
+Learn more about us and our work at [**lygom.co**](https://lygom.co).
+
 ## People involved
 
-- Co-Founder & CEO: [Dimitris Chrysocheris](https://github.com/JimChr-R4GN4R)
-- Co-Founder & CTO: [Stratis Dermanoutsos](https://github.com/Stratis-Dermanoutsos)
+- Co-Founder & CEO: [**Dimitris Chrysocheris**](https://github.com/JimChr-R4GN4R)
+- Co-Founder & CTO: [**Stratis Dermanoutsos**](https://github.com/Stratis-Dermanoutsos)
