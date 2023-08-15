@@ -1,0 +1,2 @@
+# Lygom's public assets
+
