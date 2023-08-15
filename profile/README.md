@@ -1,9 +1,10 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
   <img src="https://github.com/LygomCo/.github/blob/main/assets/logo-bg-rounded.png?raw=true" height="128">
-  <h1 align="center">Lygom</h1>
 </p>
 <!-- markdownlint-enable MD033 -->
+
+# Lygom
 
 Welcome to **Lygom**'s public GitHub profile.
 
